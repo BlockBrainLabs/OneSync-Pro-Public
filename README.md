@@ -34,7 +34,8 @@ This repository offers a glimpse into the broader OneSync framework without expo
 
 
 
-!\[First Successful Flow Run](First%20Successful%20Test%20Run.png)
+![First Successful Flow Run](first_successful_test_run.png)
+
 
 
 
